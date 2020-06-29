@@ -1,8 +1,8 @@
 <html>
 <head>
 <title>[+] Tool Online [+]</title>
-<link rel="shortcut icon" href="logo.png" type="image/x-icon">
-<link rel="icon" href="logo.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/Bang4Y1N/tool-index/master/logo.png" type="image/x-icon">
+<link rel="icon" href="https://raw.githubusercontent.com/Bang4Y1N/tool-index/master/logo.png" type="image/x-icon">
 </head>
 <body oncontextmenu="return false" onkeydown="return false" onmousedown="return false">
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,7 +13,7 @@
 <style>
 body {
  font-family: ubuntu;
-	background:url('sp.jpg');
+	background:url('https://raw.githubusercontent.com/Bang4Y1N/tool-index/master/sp.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -21,7 +21,7 @@ body {
 </style>
 <style>
 html { 
-  background-image: url(image.jpg); 
+  background-image: url(https://raw.githubusercontent.com/Bang4Y1N/tool-index/master/image.jpg); 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -147,23 +147,23 @@ li a:hover{text-shadow: 0pt 0pt 0.99em lime, 0pt 0pt 0.99em lime;color: #00ff00;
 <center>
 <font size=4 face=courier>Kumpulan Tool Online by <font color=yellow>Bang4Y1N</font>
 <style>img[alt="www.000webhost.com"]{display:none;}</style><center>
-<img src=index.png height="220" width="220" opacity="50">
+<img src=https://raw.githubusercontent.com/Bang4Y1N/tool-index/master/index.png height="220" width="220" opacity="50">
 <center><font color=#c6c5c4 size=2 face=courier new>[ <font color=#006400 face=courier new>bang4y1n@protonmail.com<font color=#c6c5c4> ]</font></center>
 <center><font color=#00FF00 size=2 >Github : </font><a href="https://github.com/Bang4Y1N">https://github.com/Bang4Y1N</a><br>
 <center><font color=#00FF00 size=2 >Donate : </font><a href="https://freewallet.org/id/bang4y1n/doge">https://freewallet.org/id/bang4y1n/doge</a><br>
 <center><font color=#00FF00 size=2 >Link : </font><a href="https://bit.ly/toolh4ck">https://bit.ly/toolh4ck</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/comment.php target=_blank>Ada Saran Tool ? <font color=yellow>Comment disini</a>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/comment.php target=_blank>Ada Saran Tool ? <font color=yellow>Comment disini</a>
 <center><br><b><u></b></u><font size=5 face=helvetica color=#ffa500>List Tool</font><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/test.php target=_blank><font size=4>[+] CSRF Balitbang 3.5.3 [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/inijso.php target=_blank><font size=4>[+] JSO Creator [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/CSRF.php target=_blank><font size=4>[+] CSRF Online[+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/encode.php target=_blank><font size=4>[+] Encode & Decode Tools [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/finder.php target=_blank><font size=4>[+] Fast Admin Finder [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/test.php target=_blank><font size=4>[+] CSRF Balitbang 3.5.3 [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/inijso.php target=_blank><font size=4>[+] JSO Creator [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/CSRF.php target=_blank><font size=4>[+] CSRF Online[+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/encode.php target=_blank><font size=4>[+] Encode & Decode Tools [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/finder.php target=_blank><font size=4>[+] Fast Admin Finder [+]</a><br>
 <a href=https://contabililondra.co.uk/css/mailer.php target=_blank><font size=4>[+] Email Bomber [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/deface.php target=_blank><font size=4>[+] Script Deface Generator [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/webdav.php target=_blank><font size=4>[+] WebDav Mass Deface [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/elfinder.php target=_blank><font size=4>[+] elFinder Auto Exploit [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/iplookup.php target=_blank><font size=4>[+] IP Lookup [+]</a><br><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/deface.php target=_blank><font size=4>[+] Script Deface Generator [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/webdav.php target=_blank><font size=4>[+] WebDav Mass Deface [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/elfinder.php target=_blank><font size=4>[+] elFinder Auto Exploit [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/iplookup.php target=_blank><font size=4>[+] IP Lookup [+]</a><br><br>
 <a href=index2.php><font size=3><b>NEXT</b></font></a><br><br>
 <font size=1>
 <?php
@@ -178,6 +178,5 @@ print "" .$_SERVER['HTTP_USER_AGENT'];
 $line = date('Y-m-d H:i:s') . " - $_SERVER[REMOTE_ADDR]";
 file_put_contents('visitors.log', $line . PHP_EOL, FILE_APPEND);
 ?>
-
 
 
