@@ -152,18 +152,18 @@ li a:hover{text-shadow: 0pt 0pt 0.99em lime, 0pt 0pt 0.99em lime;color: #00ff00;
 <center><font color=#00FF00 size=2 >Github : </font><a href="https://github.com/Bang4Y1N">https://github.com/Bang4Y1N</a><br>
 <center><font color=#00FF00 size=2 >Donate : </font><a href="https://freewallet.org/id/bang4y1n/doge">https://freewallet.org/id/bang4y1n/doge</a><br>
 <center><font color=#00FF00 size=2 >Link : </font><a href="https://bit.ly/toolh4ck">https://bit.ly/toolh4ck</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/comment.php target=_blank>Ada Saran Tool ? <font color=yellow>Comment disini</a>
+<a href=http://nangluc.vn/upload/hinhanh/tool/comment.php target=_blank>Ada Saran Tool ? <font color=yellow>Comment disini</a>
 <center><br><b><u></b></u><font size=5 face=helvetica color=#ffa500>List Tool</font><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/test.php target=_blank><font size=4>[+] CSRF Balitbang 3.5.3 [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/inijso.php target=_blank><font size=4>[+] JSO Creator [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/CSRF.php target=_blank><font size=4>[+] CSRF Online[+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/encode.php target=_blank><font size=4>[+] Encode & Decode Tools [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/finder.php target=_blank><font size=4>[+] Fast Admin Finder [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/test.php target=_blank><font size=4>[+] CSRF Balitbang 3.5.3 [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/inijso.php target=_blank><font size=4>[+] JSO Creator [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/CSRF.php target=_blank><font size=4>[+] CSRF Online[+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/encode.php target=_blank><font size=4>[+] Encode & Decode Tools [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/finder.php target=_blank><font size=4>[+] Fast Admin Finder [+]</a><br>
 <a href=https://contabililondra.co.uk/css/mailer.php target=_blank><font size=4>[+] Email Bomber [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/deface.php target=_blank><font size=4>[+] Script Deface Generator [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/webdav.php target=_blank><font size=4>[+] WebDav Mass Deface [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/elfinder.php target=_blank><font size=4>[+] elFinder Auto Exploit [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/iplookup.php target=_blank><font size=4>[+] IP Lookup [+]</a><br><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/deface.php target=_blank><font size=4>[+] Script Deface Generator [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/webdav.php target=_blank><font size=4>[+] WebDav Mass Deface [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/elfinder.php target=_blank><font size=4>[+] elFinder Auto Exploit [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/iplookup.php target=_blank><font size=4>[+] IP Lookup [+]</a><br><br>
 <a href=index2.php><font size=3><b>NEXT</b></font></a><br><br>
 <font size=1>
 <?php
