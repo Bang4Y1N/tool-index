@@ -152,16 +152,16 @@ li a:hover{text-shadow: 0pt 0pt 0.99em lime, 0pt 0pt 0.99em lime;color: #00ff00;
 <center><font color=#00FF00 size=2 >Github : </font><a href="https://github.com/Bang4Y1N">https://github.com/Bang4Y1N</a><br>
 <center><font color=#00FF00 size=2 >Donate : </font><a href="https://freewallet.org/id/bang4y1n/doge">https://freewallet.org/id/bang4y1n/doge</a><br>
 <center><font color=#00FF00 size=2 >Link : </font><a href="https://bit.ly/toolh4ck">https://bit.ly/toolh4ck</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/comment.php target=_blank>Ada Saran Tool ? <font color=yellow>Comment disini</a>
+<a href=http://nangluc.vn/upload/hinhanh/tool/comment.php target=_blank>Ada Saran Tool ? <font color=yellow>Comment disini</a>
 <center><br><b><u></b></u><font size=5 face=helvetica color=#ffa500>List Tool</font><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/asik.php target=_blank><font size=4>[+] CSRF Add Admin ASIK [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/facebook.php target=_blank><font size=4>[+] Check Valid Email FB [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/ipweb.php target=_blank><font size=4>[+] Website IP Finder [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/portsc.php target=_blank><font size=4>[+] Port Scanner [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/obf.php target=_blank><font size=4>[+] Simple Obfuscator [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/wptheme.php target=_blank><font size=4>[+] WP Theme Scanner [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/fuzzer.php target=_blank><font size=4>[+] URL Fuzzer (Finder) [+]</a><br>
-<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/obfuscator.php target=_blank><font size=4>[+] PHP Auto Obfuscator [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/asik.php target=_blank><font size=4>[+] CSRF Add Admin ASIK [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/facebook.php target=_blank><font size=4>[+] Check Valid Email FB [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/ipweb.php target=_blank><font size=4>[+] Website IP Finder [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/portsc.php target=_blank><font size=4>[+] Port Scanner [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/obf.php target=_blank><font size=4>[+] Simple Obfuscator [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/wptheme.php target=_blank><font size=4>[+] WP Theme Scanner [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/fuzzer.php target=_blank><font size=4>[+] URL Fuzzer (Finder) [+]</a><br>
+<a href=http://nangluc.vn/upload/hinhanh/tool/obfuscator.php target=_blank><font size=4>[+] PHP Auto Obfuscator [+]</a><br>
 <a href=https://contabililondra.co.uk/ghtml.php target=_blank><font size=4>[+] HTML Code Grab [+]</a><br>
 <a href=https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic target=_blank><font size=4>[+] HTML Live Editor [+]</a><br>
 <br>
