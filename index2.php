@@ -1,8 +1,8 @@
 <html>
 <head>
 <title>[+] Tool Online [+]</title>
-<link rel="shortcut icon" href="logo.png" type="image/x-icon">
-<link rel="icon" href="logo.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/Bang4Y1N/tool-index/master/logo.png" type="image/x-icon">
+<link rel="icon" href="https://raw.githubusercontent.com/Bang4Y1N/tool-index/master/logo.png" type="image/x-icon">
 </head>
 <body oncontextmenu="return false" onkeydown="return false" onmousedown="return false">
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,7 +13,7 @@
 <style>
 body {
  font-family: ubuntu;
-	background:url('sp.jpg');
+	background:url('https://raw.githubusercontent.com/Bang4Y1N/tool-index/master/sp.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -21,7 +21,7 @@ body {
 </style>
 <style>
 html { 
-  background-image: url(image.jpg); 
+  background-image: url(https://raw.githubusercontent.com/Bang4Y1N/tool-index/master/image.jpg); 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -147,21 +147,21 @@ li a:hover{text-shadow: 0pt 0pt 0.99em lime, 0pt 0pt 0.99em lime;color: #00ff00;
 <center>
 <font size=4 face=courier>Kumpulan Tool Online by <font color=yellow>Bang4Y1N</font>
 <style>img[alt="www.000webhost.com"]{display:none;}</style><center>
-<img src=index.png height="220" width="220" opacity="50">
+<img src=https://raw.githubusercontent.com/Bang4Y1N/tool-index/master/index.png height="220" width="220" opacity="50">
 <center><font color=#c6c5c4 size=2 face=courier new>[ <font color=#006400 face=courier new>bang4y1n@protonmail.com<font color=#c6c5c4> ]</font></center>
 <center><font color=#00FF00 size=2 >Github : </font><a href="https://github.com/Bang4Y1N">https://github.com/Bang4Y1N</a><br>
 <center><font color=#00FF00 size=2 >Donate : </font><a href="https://freewallet.org/id/bang4y1n/doge">https://freewallet.org/id/bang4y1n/doge</a><br>
 <center><font color=#00FF00 size=2 >Link : </font><a href="https://bit.ly/toolh4ck">https://bit.ly/toolh4ck</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/comment.php target=_blank>Ada Saran Tool ? <font color=yellow>Comment disini</a>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/comment.php target=_blank>Ada Saran Tool ? <font color=yellow>Comment disini</a>
 <center><br><b><u></b></u><font size=5 face=helvetica color=#ffa500>List Tool</font><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/md5.php target=_blank><font size=4>[+] MD5 Encrypt [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/facebook.php target=_blank><font size=4>[+] Check Valid Email FB [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/ipweb.php target=_blank><font size=4>[+] Website IP Finder [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/portsc.php target=_blank><font size=4>[+] Port Scanner [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/obf.php target=_blank><font size=4>[+] Simple Obfuscator [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/wptheme.php target=_blank><font size=4>[+] WP Theme Scanner [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/fuzzer.php target=_blank><font size=4>[+] URL Fuzzer (Finder) [+]</a><br>
-<a href=http://vieclamtai.com/Magento_Checkout/js/tool/obfuscator.php target=_blank><font size=4>[+] PHP Auto Obfuscator [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/asik.php target=_blank><font size=4>[+] CSRF Add Admin ASIK [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/facebook.php target=_blank><font size=4>[+] Check Valid Email FB [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/ipweb.php target=_blank><font size=4>[+] Website IP Finder [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/portsc.php target=_blank><font size=4>[+] Port Scanner [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/obf.php target=_blank><font size=4>[+] Simple Obfuscator [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/wptheme.php target=_blank><font size=4>[+] WP Theme Scanner [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/fuzzer.php target=_blank><font size=4>[+] URL Fuzzer (Finder) [+]</a><br>
+<a href=http://suadiennuoctai.com/Hasaki_Defined/js/tool/obfuscator.php target=_blank><font size=4>[+] PHP Auto Obfuscator [+]</a><br>
 <a href=https://contabililondra.co.uk/ghtml.php target=_blank><font size=4>[+] HTML Code Grab [+]</a><br>
 <a href=https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic target=_blank><font size=4>[+] HTML Live Editor [+]</a><br>
 <br>
@@ -175,4 +175,3 @@ print "".$_SERVER['REMOTE_ADDR'];
 <?php
 print "" .$_SERVER['HTTP_USER_AGENT'];
 ?>
-
