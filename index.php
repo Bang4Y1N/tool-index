@@ -177,7 +177,7 @@ li a:hover{text-shadow: 0pt 0pt 0.99em lime, 0pt 0pt 0.99em lime;color: #00ff00;
 <a href=index2.php><font size=3><b>NEXT</b></font></a><br>
 <font size=1>
 <?php
-print "" .$_SERVER['HTTP_USER_AGENT'];
+print "".$_SERVER['REMOTE_ADDR'];
 ?>
 <?php
 $line = date('Y-m-d H:i:s') . " - $_SERVER[REMOTE_ADDR]";
