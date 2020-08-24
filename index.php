@@ -174,13 +174,8 @@ li a:hover{text-shadow: 0pt 0pt 0.99em lime, 0pt 0pt 0.99em lime;color: #00ff00;
 <a href=http://nangluc.vn/upload/hinhanh/tool/webdav.php target=_blank><font size=4>[+] WebDav Mass Deface [+]</a><br>
 <a href=http://nangluc.vn/upload/hinhanh/tool/elfinder.php target=_blank><font size=4>[+] elFinder Auto Exploit [+]</a><br>
 <a href=http://nangluc.vn/upload/hinhanh/tool/iplookup.php target=_blank><font size=4>[+] IP Lookup [+]</a><br><br>
-<a href=index2.php><font size=3><b>NEXT</b></font></a><br><br>
+<a href=index2.php><font size=3><b>NEXT</b></font></a><br>
 <font size=1>
-<?php
-print "".$_SERVER['REMOTE_ADDR'];
-?>
-<html>
-<br>
 <?php
 print "" .$_SERVER['HTTP_USER_AGENT'];
 ?>
