@@ -175,7 +175,7 @@ li a:hover{text-shadow: 0pt 0pt 0.99em lime, 0pt 0pt 0.99em lime;color: #00ff00;
 <a href=https://contabililondra.co.uk/ghtml.php target=_blank><font size=4>[+] HTML Code Grab [+]</a><br>
 <a href=https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic target=_blank><font size=4>[+] HTML Live Editor [+]</a><br>
 <br>
-<a href=index.php><font size=3><b>BACK</b></font></a><br><br>
+<a href=index.php><font size=3><b>BACK</b></font></a><br>
 <font size=1>
 <?php
 print "".$_SERVER['REMOTE_ADDR'];
