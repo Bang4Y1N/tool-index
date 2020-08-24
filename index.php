@@ -179,6 +179,11 @@ li a:hover{text-shadow: 0pt 0pt 0.99em lime, 0pt 0pt 0.99em lime;color: #00ff00;
 <?php
 print "".$_SERVER['REMOTE_ADDR'];
 ?>
+<html>
+<br>
+<?php
+print "" .$_SERVER['HTTP_USER_AGENT'];
+?>
 <?php
 $line = date('Y-m-d H:i:s') . " - $_SERVER[REMOTE_ADDR]";
 file_put_contents('visitors.log', $line . PHP_EOL, FILE_APPEND);
